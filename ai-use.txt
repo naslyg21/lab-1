@@ -1,0 +1,12 @@
+AI Tool Used: ChatGPT (OpenAI)
+
+Prompts Used:
+
+Where is the Explorer panel in GitHub Codespaces?
+How do I create and organize files for my tutoring website?
+How do I connect my HTML request form to a PHP file?
+How AI Helped:
+ChatGPT guided me through GitHub Codespaces and helped me understand how to create and organize HTML, CSS, and PHP files. It also helped me troubleshoot my image path and test the PHP confirmation message.
+
+Suggestion Tested:
+ChatGPT suggested correcting the image path when my tutoring image was not displaying. I updated the path and tested the website again. The image displayed correctly.
