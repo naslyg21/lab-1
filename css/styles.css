@@ -246,3 +246,23 @@ th {
     }
 
 }
+
+/* Lab 3 - Tutoring Request Form Layout */
+.request-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+.request-form label,
+.request-form input,
+.request-form select,
+.request-form button {
+    width: 100%;
+}
+
+.request-form button {
+    margin-top: 15px;
+}
